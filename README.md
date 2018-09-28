@@ -1,5 +1,5 @@
 # cppSBD
-cppSBD is a simple C++/cpp program used for sentence boundary detection (SBD) 
+cppSBD is a simple C++/cpp program used for sentence boundary detection (SBD) allowing you to split paragraphs into sentences.
 
 It is able to take a text file and transform it into a vector of sentences with fairly good accuracy. Can be used to parse sentences from paragraphs and as setup for classification purposes. It uses an English word and abbreviation dictionary as well as a predetermined ruleset to determine sentence boundaries. Only the English language is supported at this moment.
 
